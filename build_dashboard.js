@@ -330,7 +330,7 @@ const html = `<!DOCTYPE html>
 </div>
 
 <footer>
-  Dashboard gerado automaticamente por Claude · Dados: <a href="https://www.looking4.com/pt" style="color:#7c3aed">looking4.com</a> · ${new Date().toLocaleDateString('pt-PT')}
+  Dados: <a href="https://www.looking4.com/pt" style="color:#7c3aed">looking4.com</a> · ${new Date().toLocaleDateString('pt-PT')}
 </footer>
 
 <script>
