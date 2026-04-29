@@ -1,10 +1,12 @@
 {
-  "name": "claude-looking4-parking",
+  "name": "precos-l4p",
   "version": "1.0.0",
-  "description": "",
-  "main": "scraper.js",
+  "description": "Dashboard de preços de parques em Lisboa — looking4.com",
+  "main": "scraper_full.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "atualizar": "node atualizar.js",
+    "scraper": "node scraper_full.js",
+    "dashboard": "node build_dashboard.js"
   },
   "keywords": [],
   "author": "",
