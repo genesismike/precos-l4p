@@ -1,0 +1,18 @@
+node_modules/
+api_response_*.json
+exploration*.json
+form_analysis.json
+test_1day.json
+api_calls.json
+*.output
+package-lock.json
+
+# Screenshots (keep only the dashboard preview)
+screenshot_explore.png
+screenshot_3days.png
+screenshot_dated.png
+form_3d.png
+results_1day.png
+results_loaded.png
+dashboard_full.png
+dashboard_preview.png
